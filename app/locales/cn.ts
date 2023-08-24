@@ -230,8 +230,8 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
     AccessCode: {
-      Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
+      Title: "高级功能访问密码",
+      SubTitle: "输入访问密码可获得更优质的功能",
       Placeholder: "请输入访问密码",
     },
     Endpoint: {
@@ -266,7 +266,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "Hello！我是[新传界](https://www.jcwiki.net)智能助手“小象同学”！我会聊天、会思考、会挑战各种难题，请问有什么可以帮助你的吗？",
+    BotHello: "Hello！我是[新传界](https://www.jcwiki.net)智能助手“小象同学”！我会聊天、会思考、会挑战各种难题，请问有什么可以帮助你的吗？如果你想使用更高级的对话功能，请前往[登录](/#/auth)页输入正确的访问密码后与我聊天吧！",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
