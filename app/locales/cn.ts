@@ -266,7 +266,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "Hello！我是新传界智能助手“小象同学”！我会聊天、会思考、会挑战各种难题，请问有什么可以帮助你的吗？",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
